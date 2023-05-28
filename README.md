@@ -7,6 +7,7 @@ An E-commerce website manages its data in the form of various tables.
 1)	You are required to create tables for supplier,customer,category,product,supplier_pricing,order,rating to store the data for the E-commerce with the schema definition given in assignment 4
 
 Write queries for the following:
+
 4) Display the total number of customers based on gender who have placed individual orders of worth at least Rs.3000.
 5) Display all the orders along with product name ordered by a customer having Customer_Id=2
 6) Display the Supplier details who can supply more than one product.
